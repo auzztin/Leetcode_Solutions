@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/auzztin/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/auzztin/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/auzztin/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/auzztin/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/auzztin/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 ## Prefix Sum
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/auzztin/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
