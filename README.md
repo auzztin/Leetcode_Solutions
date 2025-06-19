@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/auzztin/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
