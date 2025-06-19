@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -23,5 +24,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [1542-consecutive-characters](https://github.com/auzztin/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
