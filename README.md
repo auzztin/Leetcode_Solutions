@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [1542-consecutive-characters](https://github.com/auzztin/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
