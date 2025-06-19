@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/auzztin/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/auzztin/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/auzztin/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/auzztin/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/auzztin/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/auzztin/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/auzztin/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/auzztin/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
