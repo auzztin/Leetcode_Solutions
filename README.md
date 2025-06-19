@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/auzztin/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [1542-consecutive-characters](https://github.com/auzztin/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
