@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/auzztin/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/auzztin/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/auzztin/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1542-consecutive-characters](https://github.com/auzztin/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/auzztin/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
@@ -120,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/auzztin/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
