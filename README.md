@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/auzztin/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [1542-consecutive-characters](https://github.com/auzztin/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/auzztin/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Dynamic Programming
 |  |
 | ------- |
