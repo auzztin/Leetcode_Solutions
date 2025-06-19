@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/auzztin/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/auzztin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/auzztin/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/auzztin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/auzztin/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/auzztin/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
