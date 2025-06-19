@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/auzztin/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/auzztin/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0948-sort-an-array) |
+| [2058-concatenation-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/auzztin/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/auzztin/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
