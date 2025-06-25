@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/auzztin/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/auzztin/Leetcode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/auzztin/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0948-sort-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
