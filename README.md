@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/auzztin/Leetcode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/auzztin/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/auzztin/Leetcode_Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/auzztin/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/auzztin/Leetcode_Solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/auzztin/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
