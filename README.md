@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/auzztin/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/auzztin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/auzztin/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/auzztin/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/auzztin/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/auzztin/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/auzztin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/auzztin/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/auzztin/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0948-sort-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/auzztin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/auzztin/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/auzztin/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
