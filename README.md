@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/auzztin/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/auzztin/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/auzztin/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1006-vowel-spellchecker](https://github.com/auzztin/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1542-consecutive-characters](https://github.com/auzztin/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/auzztin/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/auzztin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/auzztin/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/auzztin/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/auzztin/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0948-sort-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/0948-sort-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/auzztin/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/auzztin/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/auzztin/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/auzztin/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/auzztin/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/auzztin/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/auzztin/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/auzztin/Leetcode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
