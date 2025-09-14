@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0316-remove-duplicate-letters](https://github.com/auzztin/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/auzztin/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/auzztin/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1006-vowel-spellchecker](https://github.com/auzztin/Leetcode_Solutions/tree/master/1006-vowel-spellchecker) |
@@ -182,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/auzztin/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/auzztin/Leetcode_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/auzztin/Leetcode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/auzztin/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/auzztin/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/auzztin/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
